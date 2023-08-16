@@ -233,7 +233,7 @@ h1, h2, h3, h4{
     background-color: var(--dark-green-color);
 }
 
-/* news */
+/* noticias */
 .title{
     background-color: var(--red-color);
     padding: 1rem 0;
@@ -446,7 +446,7 @@ article{
 /* media qeries */
 
 @media(min-width: 768px){
-    /* news & reviews */
+    /* noticias & reviews */
     #news article, #reviews article{
         display: grid;
         grid-template-columns: 2fr 3fr;
@@ -457,7 +457,7 @@ article{
     #news article .item-img, #reviews article .item-img{
         height: 260px;
     }
-    /* popular news */
+    /* novidades populares */
     #news .news-popular article .item-img{
         height: 160px;
     }
