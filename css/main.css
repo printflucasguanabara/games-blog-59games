@@ -600,7 +600,7 @@ article{
 }
 
 
-/* transition and animation stopper while resizing window */
+/* animacao e transicao de parar quando a janela seja aumentada ou diminuida */
 .resize-animation-stopper *{
     -webkit-animation: none!important;
             animation: none!important;
