@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Archivo:wght@200;300;400;500&family=Audiowide&family=Oswald:wght@200;300;400;500;600&display=swap');
 
-/* variables */
+/* variáveis */
 :root{
     --archivo: 'Archivo', sans-serif;
     --audiowide: 'Audiowide', cursive;
@@ -22,7 +22,7 @@
 }
 
 html{
-    font-size: 10px; /* 1rem becomes equal to 10px */
+    font-size: 10px;
 }
 body{
     font-size: 1.6rem;
